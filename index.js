@@ -15,6 +15,19 @@ export default function Home() {
           </ul>
         </nav>
       </header>
+      <main>
+        <h1>Todo</h1>
+        <p>This a paragraph</p>
+      </main>
+      <section className="sidebar">
+        <h2>Side Bar</h2>
+        <p>This a side paragraph</p>
+      </section>
+      <footer>
+        <h3>LaQuisha Cain</h3>
+        <p>This is the footer</p>
+      </footer>
+
     </div>
   )
 }
