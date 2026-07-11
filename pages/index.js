@@ -10,6 +10,9 @@ export default function Home() {
         <li>About</li>
         <li>Contact</li>
       </nav>
+
+      <h1>To Do List</h1>
+      <p>I am refreshing Next.js</p>
     </div>
   )
 }
